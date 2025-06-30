@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ahmed Saad Mohamed – Coach & Phys Ed</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; line-height: 1.6; padding: 20px; }
+    header { text-align: center; margin-bottom: 30px; }
+    header h1 { margin: 0; font-size: 2.5em; }
+    header h2 { margin: 5px 0; color: #555; }
+    section { margin-bottom: 30px; }
+    section h2 { border-bottom: 2px solid #333; padding-bottom: 5px; }
+    ul { list-style-type: disc; margin-left: 20px; }
+    .contact ul { list-style: none; padding-left: 0; }
+    .contact li { margin: 5px 0; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Ahmed Saad Mohamed</h1>
+    <h2>Football Coach & Physical Education Specialist</h2>
+    <p>Helping young athletes grow with passion, science, and sustainable habits.</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m Ahmed Saad, a coach and physical education teacher from Egypt with over 3 years of experience. I hold a Bachelor’s degree in Physical Education from Helwan University (2019–2023), and I’m currently pursuing my Master’s degree. I focus on training young athletes with a scientific and motivational approach.</p>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <h3>Football Coach</h3>
+    <ul>
+      <li>Al‑Ayat Club – First & Junior Teams (2019–2020)</li>
+      <li>Sudak SC (15/5/2023 – 1/10/2023)</li>
+      <li>Anderlecht Academy Zayed (1/7/2023 – 1/10/2023)</li>
+      <li>Ministry of Interior – Physical Trainer (1/1/2024 – 25/11/2024)</li>
+    </ul>
+    <h3>P.E Teacher</h3>
+    <ul>
+      <li>Smart Village International School (2024 – Present)</li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Time management and organization</li>
+      <li>Communication and interpersonal skills</li>
+      <li>Movement analysis and training design</li>
+      <li>Teamwork and independent planning</li>
+      <li>Microsoft Office (Word, Excel, PowerPoint)</li>
+    </ul>
+  </section>
+
+  <section id="courses">
+    <h2>Courses & Trainings</h2>
+    <ul>
+      <li>Physiology of Physical Load Planning</li>
+      <li>Long Term Athlete Development – Sessions 1 & 2</li>
+      <li>Fitness Training Course</li>
+      <li>Basic Sport Injuries Guide</li>
+      <li>Nutrition in Ramadan and Sports</li>
+      <li>Training Psychology for Trainers</li>
+      <li>ICDL & Public Relations</li>
+    </ul>
+  </section>
+
+  <section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>1st place – 100m sprint (First Republic Championship, 2018)</li>
+      <li>1st place – 100m sprint (Second Republic Egypt Cup, 2018)</li>
+    </ul>
+  </section>
+
+  <section id="languages">
+    <h2>Languages</h2>
+    <ul>
+      <li>Arabic – Native</li>
+      <li>English – Good</li>
+    </ul>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <ul>
+      <li>Email: <a href="mailto:ahmedharby210@gmail.com">ahmedharby210@gmail.com</a></li>
+      <li>Phone: <a href="tel:+201155425101">+20 1155425101</a></li>
+      <li>Instagram: <a href="https://instagram.com/7arby_27" target="_blank">@7arby_27</a></li>
+      <li>Location: Giza, Egypt</li>
+    </ul>
+  </section>
+
+</body>
+</html>
